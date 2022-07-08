@@ -1,0 +1,82 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Outfit', sans-serif;
+}
+
+.card{
+    background-color: hsl(216, 50%, 16%);
+    width: 25%;
+    margin: auto;
+    color: white;
+    border-radius: 20px;
+    
+}
+
+.card-body{
+    padding: 0 25px 25px;
+}
+
+.nft-image{
+    padding: 25px;
+    border-radius:10%;
+    
+}
+
+.nft-name{
+    
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.nft-discription {
+    color: hsl(215, 51%, 70%);
+}
+
+span{
+    color: hsl(215, 51%, 70%);
+    font-weight: bold;
+}
+.ETH{
+    color: hsl(178, 100%, 50%);
+    margin-right: 150px;
+}
+
+
+.creator-image{
+    width: 30px;
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+  
